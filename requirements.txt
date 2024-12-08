@@ -1,0 +1,10 @@
+google-cloud-videointelligence
+google-cloud-storage
+firebase_admin
+flask==2.0.3
+Werkzeug==2.0.3
+flask_bootstrap
+pandas
+structlog
+janome
+scikit-learn
